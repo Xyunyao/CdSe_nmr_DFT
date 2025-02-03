@@ -20,7 +20,7 @@ git clone https://github.com/Xyunyao/CdSe_nmr_DFT.git
 ```
 conda env create -n Cd_Se_analysis
 conda activate Cd_Se_analysis
-conda install (packages)
+conda install 
 ```
 3. Download and unzip the raw data from [here](10.6084/m9.figshare.27297354)
 
